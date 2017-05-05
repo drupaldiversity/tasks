@@ -16,24 +16,24 @@ Nikki facilitated a follow up BOF was held the next day. Participants had so man
 
 The DD&I team does not yet have a formal structure. We are a collective of volunteers who all believe in advocating for diversity and inclusion.
 
-We are not affiliated with the DA and our booth/stickers are all funded by donations.
+We are not affiliated with the Drupal Association and our booth/stickers are all funded by donations.
 
 ## What this channel is for
 
 Through this channel, we aim to to continue the conversation about diversity and inclusion within Drupal by providing a venue for important and sometimes difficult conversations that we need to have as a community.
 
 We would like to:
-- provide a safe (but moderated?) space to discuss issues of diversity and inclusion within the Drupal community.
+- provide a safe, moderated space to discuss issues of diversity and inclusion within the Drupal community.
 - provide support for people who are marginalized
-- advocate for a more open and diverse community whether through these conversations, presentations at camps and conferences, and BOF sessions.
+- advocate for a more open and diverse Drupal community through Slack/IRC conversations, presentations at camps and conferences, BOF sessions, and other means.
 - share resources/education about social justice issues in our technological communities - d&i, equality, inclusion, accessibility, etc.
 - provide strategies for increasing d&i of communities and organizations
 
-We would hope to inspiring others to help tell their stories and bring people together to make our community a place where more people can feel welcome.
+We would hope to inspire others to help tell their stories and bring people together to make our community a place where more people can feel welcome.
 
 
 ### I have more questions
-*link to the faq page*
+An FAQ page is currently under development for https://drupaldiversity.github.io/faq/ at https://github.com/drupaldiversity/drupaldiversity.github.io/pull/25. Help us out!
 
 ### I have things I would like to discuss
 
@@ -41,4 +41,3 @@ We would hope to inspiring others to help tell their stories and bring people to
 
 ### I would like to get involved
 [Get Involved!](https://drupaldiversity.github.io/get-involved/ "Get Involved!")
-
