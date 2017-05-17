@@ -5,6 +5,11 @@ Description
 ## Responsibilties
 - List
 
+## Subteams
+- Social Media
+- Newsletter?
+
+
 ## Project Board:
 - Link to the projects board
 - information about how the columns work
