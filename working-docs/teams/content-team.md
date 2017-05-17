@@ -37,5 +37,5 @@ The team's focus can be broken down into:
 *Completed tasks for the month will be here until the board is refreshed for the next month's focus.*
 
 ## Issues:
-- DD&I in general can be found on the [Admin Repo queue.](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team%3A+Content%22, "Admin Repo queue").
-- Content for the website on the [Website issue queue](https://github.com/drupaldiversity/drupaldiversity.github.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22Team%3A+Content%22, "Website issue queue").
+- DD&I in general can be found on the [Admin Repo queue.](https://github.com/drupaldiversity/administration/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20%20label%3A%22Team%3A%20Content%22%20, "Admin Repo queue").
+- Content for the website on the [Website issue queue](https://github.com/drupaldiversity/drupaldiversity.github.io/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20%20label%3A%22Team%3A%20Content%22%20, "Website issue queue").
