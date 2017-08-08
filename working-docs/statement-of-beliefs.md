@@ -3,7 +3,7 @@ This document is licensed [Attribution 4.0 International (CC BY 4.0)](https://cr
 ## We believe that all communities have values.
 These values can be implicit or explicit. It's important to us to make our values and priorities clear.
 
-## We believe in [intersectionality](https://creativecommons.org/licenses/by/4.0/, "Intersectionality").
+## We believe in [intersectionality](https://en.wikipedia.org/wiki/Intersectionality, "Intersectionality").
 There are many intersecting oppressions in society today. Some of them can make it difficult for people to take part in open source communities. We oppose excluding people due to racism, misogyny, homophobia, transphobia, ableism, islamophobia and class, as a non-exhaustive list. We seek to amplify the voices of those affected by oppressions. We also want to create safer spaces in the Drupal community where individuals can work and grow.
 
 ## We believe in the power of community.
