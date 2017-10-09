@@ -60,7 +60,8 @@ Teams are currently on pause as we need more volunteers to do the work that we d
 - We're currently working on getting some new initiatives off the ground. [Check out the intiatives label in our issue queue](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3AInitiative) to see what's upcoming. 
 
 ## Resources
-- The reading list [https://github.com/drupaldiversity/administration/issues/83] 
+- Resource page [https://drupaldiversity.github.io/resources/]
+- Reading list [https://github.com/drupaldiversity/administration/issues/83] 
 
 ### Working Docs
 Our working documents are another kind of resources that we've put together. 
